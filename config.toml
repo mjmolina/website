@@ -1,0 +1,78 @@
+baseURL = "https://mjmolina.xyz/"
+languageCode = "en-us"
+title = "Maria Jose Molina Contreras, PhD"
+builddrafts                = false
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "public"
+enableEmoji                = true
+hasCJKLanguage             = true
+summaryLength              = 200
+Paginate                   = 3
+
+theme                      = "AllinOne"
+
+pygmentsuseclasses         = true
+
+
+[permalinks]
+  blog                     = "blog/:year-:month/:slug/"
+
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
+
+[menu]
+  [[menu.main]]
+    name                   = "Projects"
+    weight                 = -110
+    identifier             = "projects"
+    url                    = "projects/"
+
+  [[menu.main]]
+    name                   = "About"
+    weight                 = -100
+    identifier             = "about"
+    url                    = "about/"
+
+
+
+[params]
+  faviconfile              = "img/logo.png"               # from static/
+  avatar                   = "img/photo.jpg"             # path to image in static dir e.g img/avatar.png
+  author                   = "María José"
+  subline                  = "PhD in Biotechnology"
+  description              = ["I am in a continuous search of new challenges that could help my personal and professional development."]
+  welcome_head             = ""
+  welcome_word             = ""
+
+  latestpostscount         = 1                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "Jan 2, 2006"
+  dateformfull             = "2006-01-02  Monday  15:04:05"
+  noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
+
+  # slides
+  slidesDirPath            = "static/img/header-slides"    # path to image in local dir (path for hugo)
+  slidesDirPathURL         = "img/header-slides"    # path to image in static dir (for static pages)
+
+  # highlighting
+  highlightjs              = true
+
+  # latex
+  katex                    = true
+
+  # links
+  #email                    = "mjmolinacontreras@gmail.com"
+  github                   = "//github.com/mjmolina"
+  linkedin                 = "//linkedin.com/in/mjmolinacontreras/"
+  #facebook                 = "//facebook.com/you"
+  #googleplus               = "//google.com/you"
+  twitter                  = "//twitter.com/MJ_BIO"
+  #px500                    = "//px500"
+  #instagram                = "//instagram.com/you"
+  #include_rss              = true                          # include RSS <link> tag in <head> and show RSS icon

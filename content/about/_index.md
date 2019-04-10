@@ -4,13 +4,13 @@ date: 2018-11-03T23:50:15+01:00
 draft: false
 ---
 
-Hello!, my name is María José Molina-Contreras.
+My name is María José Molina-Contreras.
 
-During my PhD in Biotechnology at the Universidad de Barcelona, I developed strong analytical skills due to the amount of data I was extracting, manipulating and analyzing, from which it was crucial to get the key insights for my research.
+During my PhD in Biotechnology at the Universidad de Barcelona, I developed strong analytical skills due to the amount of data I was extracting, manipulating and analyzing, from which it was crucial to get the key insights for my research.I mainly used Excel for all the studies over these datasets, but also other complementary tools related to Biotechnology. 
 
-I mainly used Excel for all the studies over these datasets, but also other complementary tools related to Biotechnology. Complementary to my studies, I have been driven by all the new technologies, languages and tools related to Data Science, so I started to learn by myself Python and SQL, from a couple of online courses with real world projects, from which I managed to get really good results.
+Complementary to my studies, I have been driven by all the new technologies, languages and tools related to Data Science, so I started to learn by myself Python and SQL, from some online courses with real world projects, from which I managed to get really good results.
 
-After almost one year, I started to feel the need to make the next step, which is being a part of a team of people, that wants to make a difference in the world, by mixing technological and data analysis aspects.
+After almost one year, I started to feel the need to make the next step, which is being a part of a team of people, that wants to make a difference in the world, by mixing technological and data analysis aspects. 
 
 ## Employment
 
@@ -25,6 +25,8 @@ implicated in SAS responses.
 Furthermore, I identified to PHYA (**phytochrome A**, an important plant
 photoreceptor) as a genetic component involved in conferring shade tolerance
 in some plants.
+
+Currenlty I am working as a Data Analyst in Berlin and focusing in Machine Learning (ML)and Deep Learning (DL).
 
 ## Education
 

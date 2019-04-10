@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Technical skills"
 date: 2018-11-03T23:38:48+01:00
 draft: false
 ---

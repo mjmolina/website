@@ -4,14 +4,13 @@ date: 2018-11-03T23:38:48+01:00
 draft: false
 ---
 
-# Data and digital skills
+## Data and digital skills
 
 * **Languages:** Python, SQL, R, Java, Kotlin.
-* **Python modules:** SciPy (NumPy, Pandas, Matplotlib)
-* **Data:** SQLite, Microsoft Excel, Tableau, TAIR Database.
+* **Data manipulation and visualization:** SQLite, mySQL, Microsoft Excel, d3.js, Matplottlib, Tableau 
 * **IDE:** Jupyter, PyCharm, Visual Studio Code, Android Studio.
 
-# Laboratory skills
+### Laboratory skills
 
 Strong background in project planning and experimental design and project
 management experience.
@@ -38,7 +37,7 @@ Y2H (Yeast two Hybrid), Immunoprecipitation of complexes for identification
 by Mass Spectrometry (LC-MS/MS).
 Preparation and analysis of samples in genomics, transcriptomics and proteomics.
 
-### Data Analysis
+### Data Analysis in Biology field
 * **Phylogenetic data analysis:** FastME 2.0.
 * **In vitro cloning analysis:** Genevestigator, Vector NTI 10, Serial cloner.
 * **LC-MS/MS data analysis:** Q Exactive Benchtop Orbitrap LC-MS/MS.
